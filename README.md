@@ -1,5 +1,6 @@
 # Modelo-3D-Garden
 
+Modelo 3d interativo feito para o site da Garden Tecnologia (https://gardentecnologia.com/)
 
 Instalar o NODE JS
 

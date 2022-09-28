@@ -3,9 +3,14 @@
 
 Instalar o NODE JS
 
-Instalar os pacotes THREE, PARCEL e GSAP conforme comando abaixo
+Instalar o PARCEL
 ```sh
-npm install parcel gsap three
+npm install parcel -g
+```
+
+Instalar os pacotes THREE e GSAP conforme comando abaixo
+```sh
+npm install gsap three
 ```
 
 

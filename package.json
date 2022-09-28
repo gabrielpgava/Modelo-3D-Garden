@@ -1,0 +1,24 @@
+{
+  "name": "modelo3d",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Garden Tech",
+  "license": "ISC",
+  "dependencies": {
+    "gsap": "^3.11.2",
+    "three": "^0.144.0"
+  },
+  "devDependencies": {
+    "parcel-plugin-static-files-copy": "^2.6.0",
+    "parcel-reporter-static-files-copy": "^1.4.0"
+  },
+  "staticFiles": {
+    "staticPath": [
+      "path/to/a/staticFolder"
+    ]
+  }
+}
